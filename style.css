@@ -1,0 +1,83 @@
+.box1{
+    float: left;
+    width: 50%;
+    height: 12vh;
+    background-color: gray;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+ .box2{float: left;
+    width:11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-left: 25%;
+    margin-top: 2vh;
+}
+.box3{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+}
+.box4{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+}
+.box5{float: left;    width: 60%;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+
+}
+.box6{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 25%;
+
+}
+.box7{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+}
+.box8{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+}
+.box9{float: left;
+    width: 11.75%;
+    height: 30vh;
+    background-color: gray;
+    margin-top: 2vh;
+    margin-left: 1%;
+
+}
+.box10
+    { float: left;
+        width: 50%;
+        height: 12vh;
+        background-color: gray;
+        margin-left: 25%;
+        margin-top: 2vh;
+        margin-bottom: 1%;
+
+    }
+    
